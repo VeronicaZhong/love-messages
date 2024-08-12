@@ -3,7 +3,7 @@ import time
 
 # Create window
 window = tk.Tk()
-window.title("Love Messages for Valentine Day")
+window.title("Love Messages")
 window.geometry("400x400")
 
 # Create canvas
